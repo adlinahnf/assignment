@@ -79,7 +79,7 @@ const options = {
  *              description: to test get api
  */
  app.get('/', (req, res) => {
-    res.send('Hello World! WJ')
+    res.send('Hello World!')
  })
 
 
