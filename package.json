@@ -1,7 +1,7 @@
 {
   "name": "benr3433-information-security-assignment",
   "version": "1.0.0",
-  "description": "fatin adlina",
+  "description": "By Adlina Fatin",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,15 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
-    "client": "^0.0.1",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "http": "^0.0.1-security",
-    "json": "^11.0.0",
     "jsonwebtoken": "^9.0.2",
-    "mongo": "^0.1.0",
     "mongoose": "^8.0.3",
-    "rest": "^2.0.0",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.0"
   },
